@@ -3,7 +3,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm also an indie artist, if you'd like to listen some of my songs you can find me at Spotify/Youtube as "Achados Perdidos"
 
-## Computer Scince student at Federal University of Minas Gerais
+## Computer Scince Student at Federal University of Minas Gerais
 <div align="center">
   <a href="https://github.com/arthorio">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=arthorio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
