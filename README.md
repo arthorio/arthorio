@@ -1,5 +1,4 @@
-- 🔭 I’m currently working as a Development intern at Fluna.io
-- 🌱 I’m currently learning JavaScript/Jquery and DOM 
+- 🌱 I’m currently learning JavaScript
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm also an indie artist, if you'd like to listen some of my songs you can find me at Spotify/Youtube as "Achados Perdidos"
 
