@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Data Science
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm also an indie artist, if you'd like to listen some of my songs you can find me at Spotify/Youtube as "Achados Perdidos"
 
